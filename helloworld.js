@@ -9,7 +9,7 @@ const obj = {
     hobby: ['운동', '수면', '먹방'],
     weight: 67,
 }
-console.log()
+console.log(obj)
 
 
 
